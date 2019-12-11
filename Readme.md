@@ -36,6 +36,7 @@ To do Topic modeling and Rating Prediction(Basic Sentiment Analysis) to bring ou
 - From reviewTime column, month and year column is extracted
 
 - Reviews per year
+
   |Year|Number of Reviews|
   |---|---|
   |16|133987|

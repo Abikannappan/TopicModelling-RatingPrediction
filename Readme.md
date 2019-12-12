@@ -144,7 +144,7 @@ To do Topic modeling and Rating Prediction(Basic Sentiment Analysis) to bring ou
 
 ***Classifiers Used:***
 - Logistics Regression
-- Multinomial Bayes
+- Multinomial Naive Bayes
 - Support Vector 
 - Random Forest
 - Adaboost 
